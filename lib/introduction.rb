@@ -1,3 +1,3 @@
-def greet_your_bro(name)
-  puts "Hey bro! Is that you, #{name}?"
+def introduction(name)
+  puts "Hey #{name}!"
 end
